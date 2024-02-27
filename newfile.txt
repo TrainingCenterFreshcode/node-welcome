@@ -1,1 +1,1 @@
-1234 OLD content: Hello Node! and NEW content: 'Hello world'
+1234 OLD content: Hello Node! and NEW content: 'Hello world'APPEND OLD content: Hello Node! and NEW content: 'Hello world'APPEND OLD content: Hello Node! and NEW content: 'Hello world'
